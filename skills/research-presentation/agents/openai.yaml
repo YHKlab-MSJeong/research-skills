@@ -1,0 +1,4 @@
+interface:
+  display_name: "연구 발표 PPT"
+  short_description: "연구 발표의 유형별 구성과 근거 중심 슬라이드 작성·검토·PPT 제작"
+  default_prompt: "$research-presentation을 사용해 제공한 연구 자료를 청중과 발표 목적에 맞는 PPT로 구성하고 검토해줘."

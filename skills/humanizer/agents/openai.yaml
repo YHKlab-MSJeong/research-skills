@@ -1,0 +1,4 @@
+interface:
+  display_name: "휴머나이저"
+  short_description: "한국어·영어 글의 의미와 말투를 살리며 상투어와 반복을 다듬습니다"
+  default_prompt: "$humanizer로 다음 글의 의미와 말투를 유지하면서 자연스럽게 다듬어줘."

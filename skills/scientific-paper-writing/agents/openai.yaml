@@ -1,0 +1,4 @@
+interface:
+  display_name: "연구논문 글쓰기"
+  short_description: "근거와 과학적 의미를 보존하는 연구논문 구상·작성·퇴고"
+  default_prompt: "$scientific-paper-writing을 사용해 이 연구논문의 논리와 문장을 검토하고, 근거와 수치를 보존하면서 다듬어 줘."

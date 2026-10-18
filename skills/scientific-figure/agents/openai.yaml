@@ -1,0 +1,4 @@
+interface:
+  display_name: "연구 Figure 제작"
+  short_description: "Nature 기본 양식으로 논문 그래프와 모식도를 제작·수정·검토합니다"
+  default_prompt: "$scientific-figure를 사용해 제공한 데이터와 연구 목적에 맞는 논문 figure를 만들고, 별도 지정이 없으면 Nature 양식을 적용해줘."
